@@ -1,0 +1,24 @@
+
+
+h1{
+    color: aqua;
+    text-shadow: 0 0 10px aqua;
+}
+h3{
+    color: orange;
+    text-shadow: 0 0 5px orange;
+}
+body{
+    background: rgb(27, 25, 31);
+}
+p{
+    color: white;
+}
+
+.anchor-custom{
+    color: aqua;
+    border: 2px solid;  
+}
+.anchor-custom:hover{
+    color: orange;
+}
